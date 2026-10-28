@@ -10,7 +10,7 @@
 
 **Building deterministic media pipelines, multimodal AI workflows, and autonomous social publishing systems for global brands and agencies.**
 
-[Corporate Website (`uptexx.com`)](https://uptexx.com) • [Flagship Platform (`nexopost.com`)](https://nexopost.com) • [Engineering Contact (`serkan.gunacti@uptexx.com`)](mailto:serkan.gunacti@uptexx.com)
+[Corporate Website (`uptexx.com`)](https://uptexx.com) • [Flagship Platform (`nexopost.com`)](https://nexopost.com) • [Engineering Contact (`support@nexopost.com`)](mailto:support@nexopost.com)
 
 </div>
 
